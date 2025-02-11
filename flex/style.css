@@ -1,0 +1,24 @@
+.left{
+    width: 200px;height: 200px;background-color: red;display: flex;justify-content: space-around;align-items: center;
+}
+.right{
+    width: 200px;height: 200px;background-color: red;display: flex;justify-content:space-around ;align-items: center;
+}
+.center{
+    display: flex;justify-content: space-around;
+}
+.top{
+    display: flex;justify-content: space-around;
+}
+h1{
+    display: flex;justify-content: space-around;
+}
+.bottom{
+    display: flex;justify-content: space-around;
+}
+
+
+
+
+
+
